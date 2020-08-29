@@ -1,6 +1,8 @@
 # gatsby-theme-animated-tailwind
 Gatsby Theme for TailwindCSS, TailwindUI &amp; TailwindUI/react
 
+https://gatsby-tailwind-demo.netlify.app
+
 ### Installation
 
 ```

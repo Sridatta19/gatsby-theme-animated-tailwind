@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-theme-animated-tailwind",
+  "version": "1.0.6",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.24.51",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "gatsby": "^2.24.51",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "@tailwindcss/ui": "^0.5.0",
+    "@tailwindui/react": "^0.1.0",
+    "gatsby-plugin-postcss": "^2.3.11",
+    "tailwindcss": "^1.7.5"
+  }
+}

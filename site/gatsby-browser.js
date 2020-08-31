@@ -5,6 +5,8 @@
  */
 import Wrapper from "./wrapPageElement";
 
+import "./src/styles/index.css";
+
 import "typeface-arvo";
 import "typeface-cabin";
 

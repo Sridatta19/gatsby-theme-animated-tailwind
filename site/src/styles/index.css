@@ -1,0 +1,12 @@
+/* purgecss ignore */
+
+html,
+body {
+  @apply m-0;
+}
+
+.content {
+  @apply mx-10 md:mx-40 xl:mx-80;
+}
+
+/* purgecss ignore */

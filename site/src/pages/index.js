@@ -3,11 +3,11 @@ import Image from "../components/image";
 
 const Index = () => {
   return (
-    <div className="space-y-16">
-      <h1 className="mx-10 md:mx-40 xl:mx-80 text-gray-900 font-arvo font-extrabold text-6xl">
+    <div className="content space-y-12">
+      <h1 className="text-gray-900 font-arvo font-extrabold text-6xl">
         Build Beautiful Tailwind Sites
       </h1>
-      <div className="mx-10 md:mx-40 xl:mx-80">
+      <div>
         <span className="text-gray-900 font-arvo text-5xl leading-8">L</span>
         <span className="ml-1 text-gray-900 font-cabin text-lg leading-8">
           orem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo
@@ -23,10 +23,10 @@ const Index = () => {
           deleniti?
         </span>
       </div>
-      <div className="md:mx-32 xl:mx-56">
+      <div className="-mx-10">
         <Image />
       </div>
-      <p className="mx-10 md:mx-40 xl:mx-80 text-gray-900 font-cabin text-lg leading-8">
+      <p className="text-gray-900 font-cabin text-lg leading-8">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo
         sint, exercitationem consequuntur enim quos, vitae laboriosam esse
         aliquid id voluptatibus molestias repudiandae nesciunt quae, nobis ab

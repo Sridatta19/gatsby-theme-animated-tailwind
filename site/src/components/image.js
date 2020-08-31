@@ -28,7 +28,7 @@ const Image = () => {
 
   return (
     <Img
-      className="mx-auto object-cover w-full md:w-96"
+      className="md:mx-auto object-cover w-full md:w-96"
       fluid={data.placeholderImage.childImageSharp.fluid}
     />
   );

@@ -1,0 +1,4 @@
+[build]
+  build = "yarn workspace site clean && yarn workspace site build"
+  base = "site/"
+  publish = "public/"

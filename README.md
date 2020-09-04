@@ -2,6 +2,12 @@
 
 Gatsby Theme for TailwindCSS, TailwindUI &amp; TailwindUI/react
 
+[![GitHub license](https://img.shields.io/github/license/Sridatta19/gatsby-theme-animated-tailwind)](https://github.com/Sridatta19/gatsby-theme-animated-tailwind/blob/master/LICENSE)
+
+[![version](https://img.shields.io/npm/v/gatsby-theme-animated-tailwind.svg?style=flat-square)](http://npm.im/gatsby-theme-animated-tailwind)
+
+[![downloads](https://img.shields.io/npm/dm/gatsby-theme-animated-tailwind)](http://npm-stat.com/charts.html?package=gatsby-theme-animated-tailwind&from=2020-06-01)
+
 ## Description
 
 A gatsby theme for using tailwindcss in your app by default.

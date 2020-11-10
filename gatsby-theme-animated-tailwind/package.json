@@ -16,15 +16,15 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "gatsby": "^2.24.51",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "gatsby": "^2.24.84",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "dependencies": {
-    "@tailwindcss/ui": "^0.6.0",
+    "@tailwindcss/ui": "^0.7.2",
     "@tailwindui/react": "^0.1.1",
-    "gatsby-plugin-postcss": "^2.3.11",
-    "tailwindcss": "^1.8.8"
+    "gatsby-plugin-postcss": "^3.0.3",
+    "tailwindcss": "^1.9.6"
   },
   "keywords": [
     "gatsby",

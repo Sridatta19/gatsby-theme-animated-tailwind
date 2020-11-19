@@ -1,6 +1,6 @@
 {
   "name": "gatsby-theme-animated-tailwind",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/Sridatta19/gatsby-theme-animated-tailwind.git",
@@ -23,7 +23,9 @@
   "dependencies": {
     "@tailwindcss/ui": "^0.7.2",
     "@tailwindui/react": "^0.1.1",
-    "gatsby-plugin-postcss": "^3.0.3",
+    "autoprefixer": "^10.0.2",
+    "gatsby-plugin-postcss": "^3.1.0",
+    "postcss": "^8.1.7",
     "tailwindcss": "^2.0.1"
   },
   "keywords": [

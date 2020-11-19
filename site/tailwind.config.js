@@ -1,5 +1,3 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
-
 module.exports = {
   purge: {
     mode: "all",
@@ -16,8 +14,8 @@ module.exports = {
         "gold-900": "#EC7C48",
       },
       fontFamily: {
-        arvo: ["Arvo", ...defaultTheme.fontFamily.sans],
-        cabin: ["Cabin", ...defaultTheme.fontFamily.sans],
+        arvo: ["Arvo"],
+        cabin: ["Cabin"],
       },
     },
   },

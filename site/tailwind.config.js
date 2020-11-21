@@ -1,3 +1,5 @@
+const colors = require("tailwindcss/colors");
+
 module.exports = {
   purge: {
     mode: "all",
@@ -9,6 +11,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        "light-blue": colors.lightBlue,
         "gold-100": "#fbab83",
         "gold-500": "#FA884F",
         "gold-900": "#EC7C48",
@@ -20,15 +23,9 @@ module.exports = {
     },
   },
   variants: {},
-  plugins: [],
-  future: {
-    removeDeprecatedGapUtilities: true,
-  },
-  experimental: {
-    applyComplexClasses: true,
-    uniformColorPalette: true,
-    extendedSpacingScale: true,
-    defaultLineHeights: true,
-    extendedFontSizeScale: true,
-  },
+  plugins: [
+    require("@tailwindcss/forms"),
+    require("@tailwindcss/typography"),
+    require("@tailwindcss/aspect-ratio"),
+  ],
 };

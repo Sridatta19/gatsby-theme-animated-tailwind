@@ -17,8 +17,8 @@
     "gatsby-source-filesystem": "^2.4.2",
     "gatsby-theme-animated-tailwind": "*",
     "gatsby-transformer-sharp": "^2.5.19",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "typeface-arvo": "^1.1.13",
     "typeface-cabin": "^1.1.13"

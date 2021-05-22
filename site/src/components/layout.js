@@ -7,12 +7,12 @@
 
 import React from "react";
 import PropTypes from "prop-types";
-import SEO from "./seo";
+import Seo from "./seo";
 
 const Layout = ({ children }) => {
   return (
     <div className="min-h-screen min-w-screen bg-gold-100 overflow-y-scroll scrolling-touch py-16">
-      <SEO title="Demo Site" />
+      <Seo title="Demo Site" />
       {children}
     </div>
   );

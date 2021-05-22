@@ -23,7 +23,7 @@ const Index = () => {
           deleniti?
         </span>
       </div>
-      <div className="-mx-10">
+      <div className="mx-auto text-center">
         <Image />
       </div>
       <p className="text-gray-900 font-cabin text-lg leading-8">
